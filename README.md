@@ -44,3 +44,4 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3cf5215a-c64b-47de-b96d-0fa1fe0a7757/deploy-status)](https://app.netlify.com/sites/tourmaline-narwhal-3b9cc0/deploys)
